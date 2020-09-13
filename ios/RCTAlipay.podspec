@@ -6,12 +6,12 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   Alipay SDK for React Native.
                    DESC
-  s.homepage     = "https://github.com/peaktangf/react-native-alipay.git"
+  s.homepage     = "https://github.com/peaktangf/react-native-peak-alipay.git"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.author             = { "gaosen" => "0x5e@sina.cn" }
-  s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/peaktangf/react-native-alipay.git", :tag => "master" }
+  s.author       = "peak"
+  s.platform     = :ios, "9.0"
+  s.source       = { :git => "https://github.com/peaktangf/react-native-peak-alipay.git", :tag => "master" }
   s.source_files  = "**/*.{h,m}"
   s.requires_arc = true
 

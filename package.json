@@ -1,6 +1,6 @@
 {
   "name": "react-native-peak-alipay",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Alipay SDK for React Native. Support RN >= 0.47.",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/peaktangf/react-native-alipay.git"
+    "url": "git+ssh://git@github.com/peaktangf/react-native-peak-alipay.git"
   },
   "types": "./index.d.ts",
   "keywords": [
     "alipay",
     "react-native"
   ],
-  "author": "gaosen <0x5e@sina.cn>",
+  "author": "peak",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.20"
   },
-  "homepage": "https://github.com/peaktangf/react-native-alipay.git",
+  "homepage": "https://github.com/peaktangf/react-native-peak-alipay.git",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-jest": "^21.2.0",
